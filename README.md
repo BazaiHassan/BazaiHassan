@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I am Hassan
 
-<!--
-**BazaiHassan/BazaiHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BazaiHassan&show_icons=true&theme=highcontrast" />
 
-Here are some ideas to get you started:
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazaiHassan&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## The Languages that I like most are:
+<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+
+
