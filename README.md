@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/bazaeehassan?logo=twitter&style=for-t
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com) -->
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@@bazaee.hassan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/__hassan_b_/)](https://www.instagram.com/__hassan_b_)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/bazaihassan)
+[![Github](https://img.shields.io/github/followers/bazaihassan?label=Follow&style=social)](https://github.com/bazaihassan)
 
 <!-- - 💻 Owner of [**MlMond**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
