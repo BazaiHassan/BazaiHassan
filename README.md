@@ -1,4 +1,16 @@
-# Hi there, I am Hassan &#129306;
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Hassan Bazai</h1>
+<h3 align="center">A passionate Android/Django developer from Iran</h3>
+
+- 🔭 I’m currently working on **HandyMan Android App**
+
+- 🌱 I’m currently learning **Django**
+
+- 💬 Ask me about **Android**
+
+- 📫 How to reach me **bazaee.hassan@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <a href="https://www.twitter.com/bazaeehassan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bazaeehassan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -23,11 +35,17 @@ src="https://img.shields.io/twitter/follow/bazaeehassan?logo=twitter&style=for-t
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=BazaiHassan&show_icons=true&theme=light" alt="hbazai" />
   
 </div>
-
   
+ <h3 align="left">Languages and Tools:</h3>
 
-
-
-
-
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  </p>
 
