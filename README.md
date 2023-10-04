@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Bazai</h1>
 <h3 align="center">A passionate Android/Django developer from Iran</h3>
 
-- 🔭 I’m currently working on **HandyMan Android App**
+- 🔭 I’m currently working on **web app dataset marketplace**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android**
 
