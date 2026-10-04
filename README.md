@@ -18,8 +18,6 @@
 <br>
 
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
-<img align="right" width="260" src="./assets/coding.gif" alt="coding" />
-
 ### 👨‍💻 About me
 
 ```kotlin
@@ -39,7 +37,9 @@ object HassanBazai {
 - 🦀 Learning **Rust** for fun and speed
 - ⚡ Fun fact: **I am Funny**
 
-<br clear="right">
+<p align="center">
+  <img width="260" src="./assets/coding.gif" alt="coding" />
+</p>
 
 <!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
 ## 🧰 Tech Stack
