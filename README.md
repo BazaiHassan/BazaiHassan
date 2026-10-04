@@ -1,8 +1,259 @@
-<h1 align="center">Hi 👋, I'm Hassan Bazai</h1>
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:a855f7&height=220&section=header&text=Hassan%20Bazai&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Android%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+</p>
 
-- 🔭 I’m currently working on **web app dataset and AI pipelines marketplace**
+<p align="center">
+  <a href="https://github.com/BazaiHassan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+AI+pipelines+%26+dataset+marketplaces+%F0%9F%A7%A0;Kotlin+%2B+Jetpack+Compose+on+Android+%F0%9F%93%B1;FastAPI+%7C+Django+%7C+Vue+%7C+Nuxt+%F0%9F%8C%90;Exploring+Rust+and+Agentic+AI+%F0%9F%A6%80;100%2B+repositories+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-- 📫 How to reach me **bazaee.hassan@gmail.com**
+<p align="center">
+  <a href="mailto:bazaee.hassan@gmail.com"><img src="https://img.shields.io/badge/Email-bazaee.hassan%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://hbazai.github.io"><img src="https://img.shields.io/badge/Website-hbazai.github.io-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BazaiHassan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+</p>
 
-- ⚡ Fun fact **I am Funny**
+<br>
 
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
+
+### 👨‍💻 About me
+
+```kotlin
+object HassanBazai {
+    val role       = listOf("AI Engineer", "Full-Stack Dev", "Android Dev")
+    val building   = "Web app for datasets & AI pipelines marketplace"
+    val languages  = listOf("Kotlin", "Python", "TypeScript", "Rust", "Java")
+    val loves      = listOf("Clean Architecture", "LLM Agents", "CFD", "MLOps")
+    val funFact    = "I am Funny 😄"
+    val contact    = "bazaee.hassan@gmail.com"
+}
+```
+
+- 🔭 Currently building a **web app for datasets & AI pipelines marketplace**
+- 🌊 Mixing **engineering (CFD)** with **agentic AI**
+- 📱 Shipping native **Android apps** with Kotlin & Jetpack Compose
+- 🦀 Learning **Rust** for fun and speed
+- ⚡ Fun fact: **I am Funny**
+
+<br clear="right">
+
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+## 🧰 Tech Stack
+
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,rust,java,bash&theme=dark" />
+</p>
+<p align="center">
+  <b>Mobile</b><br><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,android,gradle&theme=dark" />
+</p>
+<p align="center">
+  <b>Backend & Data</b><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,postgres,mysql,sqlite,redis,supabase&theme=dark" />
+</p>
+<p align="center">
+  <b>Frontend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,html,css,tailwind&theme=dark" />
+</p>
+<p align="center">
+  <b>AI / ML & DevOps</b><br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,linux,git,github,githubactions,vercel,heroku&theme=dark" />
+</p>
+
+<!-- ═══════════════════════════  FEATURED  ═══════════════════════════ -->
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🌊 <a href="https://github.com/BazaiHassan/AgenticCFD">AgenticCFD</a></h3>
+<p>Solving computational fluid dynamics problems with <b>agentic AI</b> — where engineering meets LLM agents.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&logo=openai&logoColor=white" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/BazaiHassan/lms-app">LMS App</a></h3>
+<p>A learning management system: <b>FastAPI + Postgres + Alembic + Pydantic + Docker</b> with a Streamlit UI.</p>
+<p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔐 <a href="https://github.com/BazaiHassan/Password-Manger">Password Manager</a></h3>
+<p>A <b>self-hosted</b> password manager — your secrets, your server.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>🦀 <a href="https://github.com/BazaiHassan/mizan">Mizan</a></h3>
+<p>My latest experiment in <b>Rust</b> — fast, safe and fearless.</p>
+<p><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📝 <a href="https://github.com/BazaiHassan/NoteApp">NoteApp</a></h3>
+<p>Notes app with <b>Jetpack Compose</b>, Clean Architecture and Dagger-Hilt.</p>
+<p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎧 <a href="https://github.com/BazaiHassan/musicod">Musicod</a></h3>
+<p>An online platform for <b>listening to music</b>, built with Vue.</p>
+<p><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></p>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════  ALL PROJECTS  ═══════════════════════════ -->
+## 🗂️ All Projects
+
+<p align="center">
+  <img src="https://img.shields.io/badge/public_projects-53-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/private_products-50%2B-6d28d9?style=for-the-badge&logo=lock&logoColor=white" />
+</p>
+
+> Click a category to expand it 👇
+
+<details>
+<summary><b>🤖 AI · Machine Learning · Automation</b> &nbsp;·&nbsp; 8 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**AgenticCFD**](https://github.com/BazaiHassan/AgenticCFD) | Solving CFD problems with agentic AI | `Python` `LLM Agents` |
+| [**my-ai-models**](https://github.com/BazaiHassan/my-ai-models) | My collection of trained AI models | `ML` |
+| [**mlops-tap30**](https://github.com/BazaiHassan/mlops-tap30) | End-to-end MLOps pipeline | `MLOps` |
+| [**tesnorflow-DeepLearning**](https://github.com/BazaiHassan/tesnorflow-DeepLearning) | Deep learning experiments & notebooks | `TensorFlow` `Jupyter` |
+| [**cfd**](https://github.com/BazaiHassan/cfd) | Computational fluid dynamics notebooks | `Jupyter` `NumPy` |
+| [**llm-chat-app-template**](https://github.com/BazaiHassan/llm-chat-app-template) | Chat app template for LLMs | `JavaScript` `LLM` |
+| [**botrader**](https://github.com/BazaiHassan/botrader) | Automated trading bot | `Python` |
+| [**insta-downloader-bot**](https://github.com/BazaiHassan/insta-downloader-bot) | Instagram downloader bot | `Python` `Bot` |
+
+</details>
+
+<details>
+<summary><b>🛠️ Tools · Systems · DevOps</b> &nbsp;·&nbsp; 6 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**mizan**](https://github.com/BazaiHassan/mizan) | Systems project written in Rust | `Rust` |
+| [**TermBridge**](https://github.com/BazaiHassan/TermBridge) | Terminal bridge app | `Kotlin` |
+| [**Password-Manger**](https://github.com/BazaiHassan/Password-Manger) | Self-hosted password manager | `TypeScript` |
+| [**android-builder-scafold-script**](https://github.com/BazaiHassan/android-builder-scafold-script) | Scaffold & build Android projects from a script | `Shell` |
+| [**fastapi_generator**](https://github.com/BazaiHassan/fastapi_generator) | Generator for FastAPI project boilerplate | `Shell` `FastAPI` |
+| [**heroku-xray-ws-server**](https://github.com/BazaiHassan/heroku-xray-ws-server) | Xray WebSocket server for Heroku | `Shell` `Docker` |
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & APIs</b> &nbsp;·&nbsp; 6 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**lms-app**](https://github.com/BazaiHassan/lms-app) | LMS — FastAPI + Postgres + Alembic + Pydantic + Docker + Streamlit UI | `FastAPI` `PostgreSQL` `Docker` |
+| [**fastapi**](https://github.com/BazaiHassan/fastapi) | FastAPI playground | `Python` `FastAPI` |
+| [**fastapi-tu**](https://github.com/BazaiHassan/fastapi-tu) | FastAPI tutorial exercises | `Python` `FastAPI` |
+| [**chatApp**](https://github.com/BazaiHassan/chatApp) | Real-time chat with Flask & sockets | `Flask` `Socket.IO` |
+| [**djangoPersonalPage**](https://github.com/BazaiHassan/djangoPersonalPage) | Personal page built with Django | `Django` |
+| [**django_user_login_register**](https://github.com/BazaiHassan/django_user_login_register) | User login & registration with Django | `Django` |
+
+</details>
+
+<details>
+<summary><b>🌐 Web Frontend</b> &nbsp;·&nbsp; 7 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**musicod**](https://github.com/BazaiHassan/musicod) | Online platform for listening to music | `Vue` |
+| [**twitter-clone**](https://github.com/BazaiHassan/twitter-clone) | Twitter clone | `Vue` |
+| [**nuxt-auth**](https://github.com/BazaiHassan/nuxt-auth) | User auth logic with Nuxt & Supabase | `Nuxt` `Supabase` |
+| [**dastyar-nuxt-app**](https://github.com/BazaiHassan/dastyar-nuxt-app) | Dastyar web app | `Nuxt` |
+| [**golbarg-app**](https://github.com/BazaiHassan/golbarg-app) | Golbarg web app | `Vue` |
+| [**hbazai.github.io**](https://github.com/BazaiHassan/hbazai.github.io) | Personal website | `TypeScript` |
+| [**todo-android-vue**](https://github.com/BazaiHassan/todo-android-vue) | Todo app for Android built with Vue | `Vue` `TypeScript` `Capacitor` |
+
+</details>
+
+<details>
+<summary><b>📱 Android · Kotlin · Jetpack Compose</b> &nbsp;·&nbsp; 22 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**NoteApp**](https://github.com/BazaiHassan/NoteApp) | Notes app — Compose, Clean Architecture, Dagger-Hilt | `Compose` `Hilt` |
+| [**mvvm-di-room-retroft**](https://github.com/BazaiHassan/mvvm-di-room-retroft) | Best practice of MVVM, Room, Retrofit, Hilt, Flow, Coroutines | `Kotlin` `MVVM` |
+| [**cmp_book_app**](https://github.com/BazaiHassan/cmp_book_app) | Book app with Compose Multiplatform | `KMP` `Compose` |
+| [**ShoppingListAndroidApp**](https://github.com/BazaiHassan/ShoppingListAndroidApp) | A beautiful shopping list app with Room | `Kotlin` `Room` |
+| [**LittleLemonApp**](https://github.com/BazaiHassan/LittleLemonApp) | Restaurant app built with Jetpack Compose | `Compose` |
+| [**composeGmailUI**](https://github.com/BazaiHassan/composeGmailUI) | Gmail UI recreated in Compose | `Compose` |
+| [**MyCarServices**](https://github.com/BazaiHassan/MyCarServices) | Car services app | `Kotlin` |
+| [**industerial_report_app**](https://github.com/BazaiHassan/industerial_report_app) | Industrial reporting app | `Kotlin` |
+| [**simple-mvvm-news-app**](https://github.com/BazaiHassan/simple-mvvm-news-app) | Simple MVVM news app | `Kotlin` `MVVM` |
+| [**jetpack-compose-navigation-drawer**](https://github.com/BazaiHassan/jetpack-compose-navigation-drawer) | Navigation drawer in Jetpack Compose | `Compose` |
+| [**splash-pager-compose**](https://github.com/BazaiHassan/splash-pager-compose) | Splash screen & pager with Compose | `Compose` |
+| [**navigation-fragment**](https://github.com/BazaiHassan/navigation-fragment) | Transactions between fragments | `Kotlin` |
+| [**MVVM_simple**](https://github.com/BazaiHassan/MVVM_simple) | A minimal MVVM example | `Kotlin` `MVVM` |
+| [**MVVM_Retrofit**](https://github.com/BazaiHassan/MVVM_Retrofit) | MVVM architecture fetching remote data | `Java` `Retrofit` |
+| [**MVVM_Remote_Local**](https://github.com/BazaiHassan/MVVM_Remote_Local) | MVVM with remote + local data sources | `Java` `Room` |
+| [**SimpleSQLLite**](https://github.com/BazaiHassan/SimpleSQLLite) | CRUD with SQLite | `Kotlin` `SQLite` |
+| [**CameraTest**](https://github.com/BazaiHassan/CameraTest) | Camera API playground | `Kotlin` |
+| [**walking_app_kotlin**](https://github.com/BazaiHassan/walking_app_kotlin) | Walking / step app | `Kotlin` |
+| [**dice_roll_kotlin**](https://github.com/BazaiHassan/dice_roll_kotlin) | Dice roller | `Kotlin` |
+| [**bodoApp**](https://github.com/BazaiHassan/bodoApp) | Bodo app | `Kotlin` |
+| [**AwesomeToastLibrary**](https://github.com/BazaiHassan/AwesomeToastLibrary) | Custom toast library for Android | `Kotlin` `Library` |
+| [**customSnackBar**](https://github.com/BazaiHassan/customSnackBar) | Custom Snackbar component | `Kotlin` `Library` |
+
+</details>
+
+<details>
+<summary><b>🎮 Games</b> &nbsp;·&nbsp; 4 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**Mastermind-Game**](https://github.com/BazaiHassan/Mastermind-Game) | Classic Mastermind puzzle | `Kotlin` |
+| [**jackTheGiant**](https://github.com/BazaiHassan/jackTheGiant) | Jack the Giant — a Java game | `Java` `libGDX` |
+| [**javafx-carGame**](https://github.com/BazaiHassan/javafx-carGame) | Desktop car game made for fun | `JavaFX` |
+| [**sfs-game**](https://github.com/BazaiHassan/sfs-game) | SFS game | `Java` |
+
+</details>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BazaiHassan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazaiHassan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BazaiHassan&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BazaiHassan&bg_color=0d1117&color=c9d1d9&line=a855f7&point=ffffff&area=true&area_color=6d28d9&hide_border=true" />
+</p>
+
+<!-- ═══════════════════════════  SNAKE  ═══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BazaiHassan/BazaiHassan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BazaiHassan/BazaiHassan/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/BazaiHassan/BazaiHassan/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<p align="center">
+  <i>“Talk is cheap. Show me the code.”</i> — Linus Torvalds
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0f0c29&height=120&section=footer" width="100%" />
+</p>
