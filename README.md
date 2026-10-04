@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/BazaiHassan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+AI+pipelines+%26+dataset+marketplaces+%F0%9F%A7%A0;Kotlin+%2B+Jetpack+Compose+on+Android+%F0%9F%93%B1;FastAPI+%7C+Django+%7C+Vue+%7C+Nuxt+%F0%9F%8C%90;6+apps+live+on+Cafe+Bazaar+%F0%9F%93%B2;100%2B+repositories+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+AI+pipelines+%26+dataset+marketplaces+%F0%9F%A7%A0;Kotlin+%2B+Jetpack+Compose+on+Android+%F0%9F%93%B1;FastAPI+%7C+Django+%7C+Vue+%7C+Nuxt+%F0%9F%8C%90;7+apps+live+on+Cafe+Bazaar+%F0%9F%93%B2;100%2B+repositories+and+counting+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -100,6 +100,24 @@ An offline <b>brain-training game</b> with an endless level generator for memory
 <br><br>
 <code>Kotlin</code> <code>Compose Multiplatform</code> <code>Game</code><br><br>
 <img src="./assets/apps/nebardezehn-design.webp" width="300" />
+</td>
+</tr>
+<tr>
+<td width="190" align="center" valign="top">
+<br>
+<img src="./assets/apps/meera-icon.png" width="96" alt="Meera" />
+<h3>میرا</h3>
+<sub><b>Meera</b></sub>
+<br><br>
+<a href="https://cafebazaar.ir/app/com.hbazai.mirraapp"><img src="https://img.shields.io/badge/Cafe_Bazaar-Download-3CB878?style=for-the-badge&logo=android&logoColor=white" alt="Get it on Cafe Bazaar" /></a>
+</td>
+<td valign="top">
+<br>
+Book appointments at the <b>nearest beauty salons and clinics</b>. Find top-rated specialists anywhere in the city, compare by user reviews and book in seconds. Built for customers, stylists and salon owners. Companion app of <a href="https://meera24.ir">meera24.ir</a>.
+<br><br>
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>Maps & Location</code>
+<br><br>
+<img src="./assets/apps/meera-banner.webp" width="460" />
 </td>
 </tr>
 <tr>
@@ -278,7 +296,7 @@ Your companion for <b>memorizing and learning the Quran</b>: recitation with tra
 | 🔒 **arshimal** | Arshimal — online marketplace · [arshimal.ir](https://arshimal.ir) | `Product` |
 | 🔒 **arshimal-website** | Arshimal storefront website | `Vue` |
 | 🔒 **arshimal-backend** | Arshimal marketplace backend & API | `TypeScript` |
-| 🔒 **mirra24-android-app** | Meera24 Android app — salon & clinic booking | `Kotlin` |
+| 🔒 **mirra24-android-app** | Meera Android app — salon & clinic booking · [Cafe Bazaar](https://cafebazaar.ir/app/com.hbazai.mirraapp) | `Kotlin` |
 | 🔒 **mirra24-web-backend** | Meera24 backend & admin panel · [meera24.ir](https://meera24.ir) | `Python` |
 | 🔒 **mlmond.com** | MLMond — data mining & dataset marketplace | `Vue` |
 | 🔒 **mlmond-frontend** | MLMond frontend | `Vue` |
