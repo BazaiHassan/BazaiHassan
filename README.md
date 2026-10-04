@@ -132,9 +132,11 @@ Offline <b>Persian speech-to-text</b>. Turns Telegram voice messages, audio file
 </td>
 <td valign="top">
 <br>
-Offline <b>voice analysis & training</b>. Short voice tests show your strengths and weaknesses, suggest roles (podcaster, narrator, voice actor…) and coach you with gamified exercises.
+Calm, focus, progress: <b>offline voice & speech analysis</b>. It builds your <b>voice profile</b> (warmth, clarity, rhythm, articulation…), shows your strengths, and coaches you with <b>targeted, step-by-step exercises</b>, a silence/room test and personalized feedback.
 <br><br>
 <code>Kotlin</code> <code>Jetpack Compose</code> <code>C++ DSP (NDK)</code>
+<br><br>
+<img src="./assets/apps/avazeh-banner.webp" width="460" />
 </td>
 </tr>
 <tr>
