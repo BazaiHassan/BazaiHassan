@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:a855f7&height=220&section=header&text=Hassan%20Bazai&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20%26%20Android%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Hassan Bazai" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
+<img align="right" width="260" src="./assets/coding.gif" alt="coding" />
 
 ### 👨‍💻 About me
 
@@ -322,5 +322,5 @@ object HassanBazai {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0f0c29&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" alt="footer" />
 </p>
