@@ -112,13 +112,44 @@ object HassanBazai {
 
 <p align="center">
   <img src="https://img.shields.io/badge/public_projects-53-a855f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/private_products-50%2B-6d28d9?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/private_projects-58-6d28d9?style=for-the-badge&logo=lock&logoColor=white" />
 </p>
 
-> Click a category to expand it 👇
+> Click a category to expand it 👇 &nbsp;·&nbsp; 🔒 = private repository
 
 <details>
-<summary><b>🤖 AI · Machine Learning · Automation</b> &nbsp;·&nbsp; 8 projects</summary>
+<summary><b>🚀 Products & Platforms</b> &nbsp;·&nbsp; 22 projects</summary>
+<br>
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| 🔒 **arshimal** | Arshimal — main project | `Product` |
+| 🔒 **arshimal-website** | Arshimal website | `Vue` |
+| 🔒 **arshimal-backend** | Arshimal backend | `TypeScript` |
+| 🔒 **mirra24-android-app** | Mirra24 Android app | `Kotlin` |
+| 🔒 **mirra24-web-backend** | Mirra24 web backend | `Python` |
+| 🔒 **mlmond.com** | MLMond — data mining & dataset marketplace | `Vue` |
+| 🔒 **mlmond-frontend** | MLMond frontend | `Vue` |
+| 🔒 **mlmond-backend** | MLMond backend | `Python` |
+| 🔒 **mlmond-app** | MLMond app | `Vue` |
+| 🔒 **mlmond-newface** | MLMond redesign | `Vue` |
+| 🔒 **mlmondNuxt** | MLMond on Nuxt | `Nuxt` |
+| 🔒 **mlmond-nuxt-vercel** | MLMond Nuxt deployment | `Nuxt` `Vercel` |
+| 🔒 **mlmond-backend-django** | MLMond Django backend | `Django` `Vercel` |
+| 🔒 **mlmond-vue-website** | MLMond Vue website | `Vue` |
+| 🔒 **temp_mlmond_front** | MLMond frontend prototype | `Vue` |
+| 🔒 **mlmond** | MLMond data mining website (v1) | `HTML` |
+| 🔒 **datadeh-new-frontend** | Datadeh frontend | `TypeScript` |
+| 🔒 **codedu** | Coding education platform | `Vue` |
+| 🔒 **lms_free_project** | Free LMS project | `Vue` |
+| 🔒 **PersianTrello** | Persian Trello-style task board | `Vue` |
+| 🔒 **grill-land** | Grill Land restaurant website | `Vue` |
+| 🔒 **shika_style** | Shika Style fashion shop | `Vue` |
+
+</details>
+
+<details>
+<summary><b>🤖 AI · Machine Learning · Automation</b> &nbsp;·&nbsp; 19 projects</summary>
 <br>
 
 | Project | Description | Stack |
@@ -131,11 +162,22 @@ object HassanBazai {
 | [**llm-chat-app-template**](https://github.com/BazaiHassan/llm-chat-app-template) | Chat app template for LLMs | `JavaScript` `LLM` |
 | [**botrader**](https://github.com/BazaiHassan/botrader) | Automated trading bot | `Python` |
 | [**insta-downloader-bot**](https://github.com/BazaiHassan/insta-downloader-bot) | Instagram downloader bot | `Python` `Bot` |
+| 🔒 **Kipa-Project** | Platform for AI video generation | `Python` `GenAI` |
+| 🔒 **SpeechDatasetMaker** | Toolkit for building speech datasets | `Python` `Speech` |
+| 🔒 **SRS-Bot** | A robot for trading | `Python` `Trading` |
+| 🔒 **gpt-builder** | Build custom GPT assistants | `Python` `LLM` |
+| 🔒 **parhamGPT** | GPT-powered Android assistant | `Kotlin` `LLM` |
+| 🔒 **learn-ai-agents** | Hands-on AI agents experiments | `Python` `Agents` |
+| 🔒 **quizra** | Quiz generation platform | `Python` |
+| 🔒 **AlgorithmPlayground** | Having fun with algorithms in Python | `Jupyter` |
+| 🔒 **mond-scrapper** | Data scraper for MLMond | `Python` `Scraping` |
+| 🔒 **phishing-project** | Phishing research project | `Python` `Security` |
+| 🔒 **cfdup** | CFD application | `Java` |
 
 </details>
 
 <details>
-<summary><b>🛠️ Tools · Systems · DevOps</b> &nbsp;·&nbsp; 6 projects</summary>
+<summary><b>🛠️ Tools · Systems · DevOps</b> &nbsp;·&nbsp; 7 projects</summary>
 <br>
 
 | Project | Description | Stack |
@@ -146,11 +188,12 @@ object HassanBazai {
 | [**android-builder-scafold-script**](https://github.com/BazaiHassan/android-builder-scafold-script) | Scaffold & build Android projects from a script | `Shell` |
 | [**fastapi_generator**](https://github.com/BazaiHassan/fastapi_generator) | Generator for FastAPI project boilerplate | `Shell` `FastAPI` |
 | [**heroku-xray-ws-server**](https://github.com/BazaiHassan/heroku-xray-ws-server) | Xray WebSocket server for Heroku | `Shell` `Docker` |
+| 🔒 **whatsapp-marketing-app** | WhatsApp marketing automation | `TypeScript` |
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend & APIs</b> &nbsp;·&nbsp; 6 projects</summary>
+<summary><b>⚙️ Backend & APIs</b> &nbsp;·&nbsp; 8 projects</summary>
 <br>
 
 | Project | Description | Stack |
@@ -161,6 +204,8 @@ object HassanBazai {
 | [**chatApp**](https://github.com/BazaiHassan/chatApp) | Real-time chat with Flask & sockets | `Flask` `Socket.IO` |
 | [**djangoPersonalPage**](https://github.com/BazaiHassan/djangoPersonalPage) | Personal page built with Django | `Django` |
 | [**django_user_login_register**](https://github.com/BazaiHassan/django_user_login_register) | User login & registration with Django | `Django` |
+| 🔒 **mlmondapi** | MLMond REST API | `Python` |
+| 🔒 **shop_front_backend** | Online shop — frontend + backend | `HTML` `Fullstack` |
 
 </details>
 
@@ -181,7 +226,7 @@ object HassanBazai {
 </details>
 
 <details>
-<summary><b>📱 Android · Kotlin · Jetpack Compose</b> &nbsp;·&nbsp; 22 projects</summary>
+<summary><b>📱 Android · Kotlin · Jetpack Compose</b> &nbsp;·&nbsp; 41 projects</summary>
 <br>
 
 | Project | Description | Stack |
@@ -208,11 +253,30 @@ object HassanBazai {
 | [**bodoApp**](https://github.com/BazaiHassan/bodoApp) | Bodo app | `Kotlin` |
 | [**AwesomeToastLibrary**](https://github.com/BazaiHassan/AwesomeToastLibrary) | Custom toast library for Android | `Kotlin` `Library` |
 | [**customSnackBar**](https://github.com/BazaiHassan/customSnackBar) | Custom Snackbar component | `Kotlin` `Library` |
+| 🔒 **shimi-joo** | Chemistry learning app | `Kotlin` |
+| 🔒 **Riazi-Joo** | Math learning app | `Kotlin` |
+| 🔒 **nebarde-zehn** | Brain-training game app | `Kotlin` |
+| 🔒 **me-claude-apps** | Apps built with Claude | `Kotlin` |
+| 🔒 **Keep-Fit-App** | Fitness tracking app | `Kotlin` |
+| 🔒 **HBPlayer** | Media player | `Kotlin` |
+| 🔒 **cartat** | Cartat app | `Kotlin` |
+| 🔒 **Bookan** | Book app | `Kotlin` |
+| 🔒 **ketabhat-app** | Ketabhat book app | `Kotlin` |
+| 🔒 **mimify** | Mimify app | `Kotlin` |
+| 🔒 **TinTinArtApp** | Art app | `Kotlin` |
+| 🔒 **dr-plant** | Plant doctor app | `Kotlin` |
+| 🔒 **HamyarTamin** | HamyarTamin app | `Kotlin` |
+| 🔒 **foodrecepieapp** | Food recipe app | `Kotlin` |
+| 🔒 **newsApp** | News app — MVVM, Retrofit, Dagger-Hilt, Room | `Kotlin` `Hilt` |
+| 🔒 **jakar** | Handyman application | `Kotlin` |
+| 🔒 **JakarWorker** | Worker app of Jakar | `Kotlin` |
+| 🔒 **ckarApp** | Online job app | `Kotlin` |
+| 🔒 **ourJobApp** | Job app | `Kotlin` |
 
 </details>
 
 <details>
-<summary><b>🎮 Games</b> &nbsp;·&nbsp; 4 projects</summary>
+<summary><b>🎮 Games</b> &nbsp;·&nbsp; 7 projects</summary>
 <br>
 
 | Project | Description | Stack |
@@ -221,6 +285,9 @@ object HassanBazai {
 | [**jackTheGiant**](https://github.com/BazaiHassan/jackTheGiant) | Jack the Giant — a Java game | `Java` `libGDX` |
 | [**javafx-carGame**](https://github.com/BazaiHassan/javafx-carGame) | Desktop car game made for fun | `JavaFX` |
 | [**sfs-game**](https://github.com/BazaiHassan/sfs-game) | SFS game | `Java` |
+| 🔒 **pingpong** | A ping-pong game | `Java` |
+| 🔒 **birdhunting** | Bird hunting game | `Java` |
+| 🔒 **clicker-app** | Clicker game | `Docker` |
 
 </details>
 
