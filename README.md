@@ -155,6 +155,40 @@ Learning & memorization app.
 </tr>
 </table>
 
+<!-- ═══════════════════════════  WEBSITES  ═══════════════════════════ -->
+## 🌐 Websites I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>💇‍♀️ Meera24</h3>
+<p>Online booking for <b>beauty salons and clinics</b>: find the nearest, best-rated specialists and book an appointment, with an admin panel for businesses.</p>
+<p><code>Python</code> <code>Docker</code> <code>Jenkins</code></p>
+<p><a href="https://meera24.ir"><img src="https://img.shields.io/badge/Visit-meera24.ir-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="meera24.ir" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 Klipa</h3>
+<p>A Persian-first <b>AI video generation SaaS</b>. From an idea, text, article link or template, it generates the script, scenes, images, voice, music, subtitles and the final MP4.</p>
+<p><code>Python</code> <code>GenAI</code> <code>Docker</code></p>
+<p><a href="https://klipa.ir"><img src="https://img.shields.io/badge/Visit-klipa.ir-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="klipa.ir" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 MLGrid</h3>
+<p>A <b>dataset and AI pipelines marketplace</b> for machine-learning teams.</p>
+<p><code>Nuxt</code> <code>Python</code> <code>AI</code></p>
+<p><a href="https://mlgrid.com"><img src="https://img.shields.io/badge/Visit-mlgrid.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mlgrid.com" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🛍️ Arshimal</h3>
+<p>A multi-vendor <b>online marketplace</b> with seller shops, products, cart and checkout, comments and seller payouts.</p>
+<p><code>Nuxt</code> <code>TypeScript</code> <code>SEO</code></p>
+<p><a href="https://arshimal.ir"><img src="https://img.shields.io/badge/Visit-arshimal.ir-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="arshimal.ir" /></a></p>
+</td>
+</tr>
+</table>
+
 <!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
 ## 🧰 Tech Stack
 
@@ -237,11 +271,11 @@ Learning & memorization app.
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🔒 **arshimal** | Arshimal — main project | `Product` |
-| 🔒 **arshimal-website** | Arshimal website | `Vue` |
-| 🔒 **arshimal-backend** | Arshimal backend | `TypeScript` |
-| 🔒 **mirra24-android-app** | Mirra24 Android app | `Kotlin` |
-| 🔒 **mirra24-web-backend** | Mirra24 web backend | `Python` |
+| 🔒 **arshimal** | Arshimal — online marketplace · [arshimal.ir](https://arshimal.ir) | `Product` |
+| 🔒 **arshimal-website** | Arshimal storefront website | `Vue` |
+| 🔒 **arshimal-backend** | Arshimal marketplace backend & API | `TypeScript` |
+| 🔒 **mirra24-android-app** | Meera24 Android app — salon & clinic booking | `Kotlin` |
+| 🔒 **mirra24-web-backend** | Meera24 backend & admin panel · [meera24.ir](https://meera24.ir) | `Python` |
 | 🔒 **mlmond.com** | MLMond — data mining & dataset marketplace | `Vue` |
 | 🔒 **mlmond-frontend** | MLMond frontend | `Vue` |
 | 🔒 **mlmond-backend** | MLMond backend | `Python` |
@@ -274,7 +308,7 @@ Learning & memorization app.
 | [**llm-chat-app-template**](https://github.com/BazaiHassan/llm-chat-app-template) | Chat app template for LLMs | `JavaScript` `LLM` |
 | [**botrader**](https://github.com/BazaiHassan/botrader) | Automated trading bot | `Python` |
 | [**insta-downloader-bot**](https://github.com/BazaiHassan/insta-downloader-bot) | Instagram downloader bot | `Python` `Bot` |
-| 🔒 **Kipa-Project** | Platform for AI video generation | `Python` `GenAI` |
+| 🔒 **Kipa-Project** | Klipa — AI video generation SaaS · [klipa.ir](https://klipa.ir) | `Python` `GenAI` |
 | 🔒 **SpeechDatasetMaker** | Toolkit for building speech datasets | `Python` `Speech` |
 | 🔒 **SRS-Bot** | A robot for trading | `Python` `Trading` |
 | 🔒 **gpt-builder** | Build custom GPT assistants | `Python` `LLM` |
