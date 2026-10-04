@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:bazaee.hassan@gmail.com"><img src="https://img.shields.io/badge/Email-bazaee.hassan%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://hbazai.github.io"><img src="https://img.shields.io/badge/Website-hbazai.github.io-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=BazaiHassan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  <a href="https://github.com/BazaiHassan?tab=followers"><img src="https://img.shields.io/github/followers/BazaiHassan?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7c3aed" /></a>
 </p>
 
 <br>
