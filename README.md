@@ -140,17 +140,19 @@ Offline <b>voice analysis & training</b>. Short voice tests show your strengths 
 <tr>
 <td width="190" align="center" valign="top">
 <br>
-<img src="./assets/apps/azbar-icon.svg" width="96" alt="Azbar" />
-<h3>ازبر</h3>
-<sub><b>Azbar</b></sub>
+<img src="./assets/apps/azbar-icon.png" width="96" alt="Azbar Quran" />
+<h3>ازبر قرآن</h3>
+<sub><b>Azbar Quran</b></sub>
 <br><br>
 <a href="https://cafebazaar.ir/app/ir.azbar.app"><img src="https://img.shields.io/badge/Cafe_Bazaar-Download-3CB878?style=for-the-badge&logo=android&logoColor=white" alt="Get it on Cafe Bazaar" /></a>
 </td>
 <td valign="top">
 <br>
-Learning & memorization app.
+Your companion for <b>memorizing and learning the Quran</b>: recitation with translation, beautiful recitations by renowned reciters, audio translation, a dedicated <b>memorization & practice</b> section, offline downloads and a simple, calm interface.
 <br><br>
-<code>Kotlin</code> <code>Android</code>
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>Audio</code>
+<br><br>
+<img src="./assets/apps/azbar-banner.webp" width="460" />
 </td>
 </tr>
 </table>
