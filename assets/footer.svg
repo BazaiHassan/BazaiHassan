@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="110" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="110" fill="url(#bg)"/>
+    <path fill="#ffffff" opacity="0.10">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+        M0 60 C 300 20, 600 100, 900 60 S 1150 30, 1200 60 V110 H0 Z;
+        M0 70 C 300 100, 600 30, 900 72 S 1150 95, 1200 70 V110 H0 Z;
+        M0 60 C 300 20, 600 100, 900 60 S 1150 30, 1200 60 V110 H0 Z"/>
+    </path>
+    <text x="600" y="62" text-anchor="middle" fill="#ffffff"
+          font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2">
+      Thanks for visiting  ✦  Let's build something great
+    </text>
+  </g>
+</svg>
